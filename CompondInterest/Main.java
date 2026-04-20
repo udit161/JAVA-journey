@@ -1,4 +1,3 @@
-package CompondInterest;
 
 import java.util.Scanner;
 
